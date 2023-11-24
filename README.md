@@ -6,7 +6,6 @@ Decafé is a JavaFX Application therefore, it needs to run in an IDE like Intell
 There are two ways to access our project
 - If you have a zip file of our project, unzip it and open the project folder in an IDE
 - Or you use your IDE to clone the project from Github
-> Github link:  https://github.com/sophiahoelzl/DeCafe
 ### Start the Game
 To be able to play our game you need to run the `public static void main(String[] args)` in the `HelloApplication` Class
 > found in src/main/java/com/example/decafe/HelloApplicatin.class
